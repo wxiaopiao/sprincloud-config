@@ -1,2 +1,2 @@
-# sprincloud-config
+# springcloud-config
 this is a springcloud Repository
